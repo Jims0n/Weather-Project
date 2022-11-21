@@ -1,0 +1,19 @@
+.search {
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+body {
+    background-color: black;
+}
+
+.container {
+    padding-left: 20%;
+    padding-right: 20%;
+   background-color: rgb(139, 250, 135);
+    border-radius: 10px;
+    margin-top: 50px;
+    text-align: center;
+}
